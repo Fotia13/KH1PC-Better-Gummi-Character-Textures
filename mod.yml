@@ -1,0 +1,102 @@
+title: Better Gummi Sora Textures
+originalAuthor: Fotia13
+description: Replace Sora's gummi speach textures by the PS2 version to remove AI upscale.
+game: kh1
+dependencies: 
+assets:
+- name: remastered\worldmap\test\ex_0017.knm\-140.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-140.dds
+- name: remastered\worldmap\test\ex_0017.knm\-141.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-141.dds
+- name: remastered\worldmap\test\ex_0017.knm\-142.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-142.dds
+- name: remastered\worldmap\test\ex_0017.knm\-143.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-143.dds
+- name: remastered\worldmap\test\ex_0017.knm\-144.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-144.dds
+- name: remastered\worldmap\test\ex_0017.knm\-145.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-145.dds
+- name: remastered\worldmap\test\ex_0017.knm\-146.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-146.dds
+- name: remastered\worldmap\test\ex_0017.knm\-240.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-240.dds
+- name: remastered\worldmap\test\ex_0017.knm\-241.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-241.dds
+- name: remastered\worldmap\test\ex_0017.knm\-57600.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-57600.dds
+- name: remastered\worldmap\test\ex_0017.knm\-5b600.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-5b600.dds
+- name: remastered\worldmap\test\ex_0017.knm\-5f600.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-5f600.dds
+- name: remastered\worldmap\test\ex_0017.knm\-63600.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-63600.dds
+- name: remastered\worldmap\test\ex_0017.knm\-67600.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-67600.dds
+- name: remastered\worldmap\test\ex_0017.knm\-6b600.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-6b600.dds
+- name: remastered\worldmap\test\ex_0017.knm\-6f600.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\worldmap\test\ex_0017.knm\-6f600.dds
